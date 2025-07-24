@@ -142,8 +142,10 @@ Vivendo entre códigos, redes e desafios de cibersegurança, sigo evoluindo nas 
 
 </p>
 
+---
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGF0N3I1YTk3NmZiZ3VkM294ZWczaXgwdnRzNjBjdG5naGs2N2dldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif"  />
+
 
 ###
 
@@ -181,6 +183,9 @@ Vivendo entre códigos, redes e desafios de cibersegurança, sigo evoluindo nas 
 </div>
 
 ###
+
+---
+
 
 <img src="https://raw.githubusercontent.com/Kap6ahak-fin7/Kap6ahak-fin7/output/snake.svg" alt="Snake animation" />
 
