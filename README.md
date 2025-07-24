@@ -1,6 +1,4 @@
-<br clear="both">
-
-💀 KAP6AHAK-FIN7
+# 💀 KAP6AHAK-FIN7
 
  **`Ethical Hacker | Cybersecurity Explorer | Digital Ghost`**
  
