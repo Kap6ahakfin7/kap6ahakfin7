@@ -1,6 +1,14 @@
 <br clear="both">
 
-<h2 align="left">👋! KAP6AHAK-FIN7 — hacker ético nas sombras do GitHub, explorando falhas para fortalecer sistemas. 💀💻🚀</h2>
+💀 KAP6AHAK-FIN7
+
+ **`Ethical Hacker | Cybersecurity Explorer | Digital Ghost`**
+ 
+Atuando nas sombras do GitHub e além, estudo e exploro vulnerabilidades para fortalecer sistemas e proteger dados.
+
+Vivendo entre códigos, redes e desafios de cibersegurança, sigo evoluindo nas práticas éticas que fazem a diferença no mundo digital.
+
+ **`🧠 Apaixonado por tecnologia |🛡️ Foco em segurança ofensiva e defensiva | 📍 Kali Linux • TryHackMe • Pentest`**
 
 ###
 ### 🤖 Linguagens e Tecnologias
