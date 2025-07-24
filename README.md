@@ -7,6 +7,8 @@ Atuando nas sombras do GitHub e além, estudo e exploro vulnerabilidades para fo
 Vivendo entre códigos, redes e desafios de cibersegurança, sigo evoluindo nas práticas éticas que fazem a diferença no mundo digital.
 
  **`🧠 Apaixonado por tecnologia |🛡️ Foco em segurança ofensiva e defensiva | 📍 Kali Linux • TryHackMe • Pentest`**
+ 
+---
 
 ###
 ### 🤖 Linguagens e Tecnologias
